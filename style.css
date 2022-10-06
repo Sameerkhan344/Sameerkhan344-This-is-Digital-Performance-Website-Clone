@@ -1407,7 +1407,7 @@ z-index: 99999;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  top: 10px;
+  /* top: 10px; */
 }
 
 #center-div #one {
@@ -1540,6 +1540,7 @@ z-index: 99999;
 #btm-div #left h1 {
   font-family: 'Cooper';
   font-weight: 100;
+  font-size:30px
 }
 
 #left span {
