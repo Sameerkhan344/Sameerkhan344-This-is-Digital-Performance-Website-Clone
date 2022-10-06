@@ -344,7 +344,7 @@ body {
 #text h1:after {
   position: absolute;
   bottom: -0.25rem;
-  left: 20rem;
+  left: 18rem;
   content: "";
   width: 40%;
   height: 22px;
@@ -440,7 +440,7 @@ body {
   /* background-color: red; */
   background-image: url(./Assets/circle-green.svg);
   background-size: cover;
-  left: 25%;
+  left: 28%;
   top: 60%;
 }
 
@@ -1532,7 +1532,7 @@ z-index: 99999;
 }
 
 #btm-div #left {
-  width: 15vw;
+  width: 16vw;
   height: 5vh;
   font-family: Cooper;
 }
@@ -1540,7 +1540,7 @@ z-index: 99999;
 #btm-div #left h1 {
   font-family: 'Cooper';
   font-weight: 100;
-  font-size:30px
+    font-size: 20px;
 }
 
 #left span {
