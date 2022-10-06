@@ -343,8 +343,8 @@ body {
 
 #text h1:after {
   position: absolute;
-  bottom: -0.25rem;
-  left: 30px;
+      bottom: 0%;
+    left: 30%;
   content: "";
   width: 40%;
   height: 22px;
